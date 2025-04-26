@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "shaderAssignment.sln"
+    "dotnet.defaultSolution": "ShaderA3.sln"
 }
